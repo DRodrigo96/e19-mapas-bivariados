@@ -1,0 +1,6 @@
+/resources/home
+__pycache__
+/temp/*
+!/temp/.gitkeep
+/data/*
+!/data/data.zip
